@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyamaddy
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning backend.
+- 🌱 I’m currently learning DSA in c++ and  backend.
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me maddeshiyadivya30@gmail.com
 
